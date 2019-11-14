@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assignment9</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="logout">Logout</string>
+</resources>
